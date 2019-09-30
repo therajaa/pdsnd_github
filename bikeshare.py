@@ -1,4 +1,5 @@
-
+#It is pretty simple as I divided subsections with functions
+#Here is the code for the bikehire data analysis with python
 import time
 import pandas as pd
 
