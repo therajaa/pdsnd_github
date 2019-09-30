@@ -1,5 +1,6 @@
 #It is pretty simple as I divided subsections with functions
 #Here is the code for the bikehire data analysis with python
+#This was the second project for the Udacity's Nanodegree Course
 import time
 import pandas as pd
 
