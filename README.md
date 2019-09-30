@@ -21,13 +21,13 @@
 
 The bikeshare.py file is set up as a script that takes in raw input to create an interactive experience in the terminal that answers questions about the dataset. The experience is interactive because depending on a user's input, the answers to the questions on the previous page will change! There are four questions that will change the answers:
 
-* 1.	Would you like to see data for Chicago, New York, or Washington?
+* 	Would you like to see data for Chicago, New York, or Washington?
 
-* 2.	Would you like to filter the data by month, day, or not at all?
+* 	Would you like to filter the data by month, day, or not at all?
 
-* 3.	(If they chose month) Which month - January, February, March, April, May, or June?
+* 	(If they chose month) Which month - January, February, March, April, May, or June?
 
-* 4.	(If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
+* 	(If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
 
 
 ### Files used
@@ -37,21 +37,21 @@ The bikeshare.py file is set up as a script that takes in raw input to create an
 
 To complete this project, the following software were used:
 
-* •	Python 3, NumPy, and pandas installed using Anaconda
+* 	Python 3, NumPy, and pandas installed using Anaconda
 
-* •	A text editor Atom.
+* 	A text editor Atom.
 
-* •	A terminal application Cygwin on Windows
+* 	A terminal application Cygwin on Windows
 
 ### Credits
 
-* •	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.dt.html
-* •	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.dt.dayofweek.html
-* •	https://stackoverflow.com/questions/775049/how-to-convert-seconds-to-hours-minutes-and-seconds
-* •	https://docs.python.org/3/library/functions.html#divmod
-* •	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.to_string.html
-* •	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_string.html
-* •	https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
-* •	http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.str.cat.html#pandas.Series.str.cat
+* 	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.dt.html
+* 	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.dt.dayofweek.html
+* 	https://stackoverflow.com/questions/775049/how-to-convert-seconds-to-hours-minutes-and-seconds
+* 	https://docs.python.org/3/library/functions.html#divmod
+* 	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.to_string.html
+* 	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_string.html
+* 	https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
+* 	http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.str.cat.html#pandas.Series.str.cat
 
 
