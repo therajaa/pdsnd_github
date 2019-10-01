@@ -1,7 +1,7 @@
 ## \*This file was first uploaded on 30/09/2019\*
 
 
-#**US BIKESHARE DATA EXPLORATION WITH PYTHON**
+# **US BIKESHARE DATA EXPLORATION WITH PYTHON**
 
 ## Description
 
@@ -25,9 +25,6 @@ The bikeshare.py file is set up as a script that takes in raw input to create an
 * 	(If they chose month) Which month - January, February, March, April, May, or June?
 
 * 	(If they chose day) Which day - Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?
-
-
-### Files used
 
 
 # Needed Software Applications:
