@@ -1,8 +1,5 @@
-## Date created
+## \*This file was first uploaded on 30/09/2019\*
 
-\*This file was first uploaded on 30/09/2019\*
-
-## Project Title
 
 #**US BIKESHARE DATA EXPLORATION WITH PYTHON**
 
@@ -33,7 +30,7 @@ The bikeshare.py file is set up as a script that takes in raw input to create an
 ### Files used
 
 
-#Needed Software Applications:
+# Needed Software Applications:
 
 To complete this project, the following software were used:
 
@@ -41,9 +38,9 @@ To complete this project, the following software were used:
 
 * 	A text editor Atom.
 
-* 	A terminal application Cygwin on Windows
+* 	A terminal application (Cygwin on Windows)
 
-### Credits
+### References
 
 * 	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.dt.html
 * 	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.dt.dayofweek.html
@@ -53,5 +50,3 @@ To complete this project, the following software were used:
 * 	https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.to_string.html
 * 	https://stackoverflow.com/questions/19377969/combine-two-columns-of-text-in-dataframe-in-pandas-python
 * 	http://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.str.cat.html#pandas.Series.str.cat
-
-
